@@ -1,1 +1,1 @@
-# terraform_ecs_fargate_example
+# terraform_ecs_fargate
