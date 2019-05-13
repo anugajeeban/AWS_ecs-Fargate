@@ -6,8 +6,10 @@ locals {
 }
 
 provider "aws" {
+  access_key = "AKIAWRBJR2G7CFU6ZGLI"
+  secret_key = "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"
   region  = "${var.region}"
-  #profile = "duduribeiro"
+    #profile = "Anu Gajeeban"
 }
 
 resource "aws_key_pair" "key" {
